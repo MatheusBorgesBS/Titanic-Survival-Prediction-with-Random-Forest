@@ -18,7 +18,10 @@ Este repositório contém um modelo de aprendizado de máquina desenvolvido para
 2. Certifique-se de que os arquivos `train.csv` e `test.csv` estão disponíveis na mesma pasta do notebook.
 3. Execute o notebook para treinar o modelo e gerar as previsões.
 
+## Resultados
+- O modelo obteve um score de 0.76 no Kaggle.
+
 ## Próximos passos
-- Experimentar outros classificadores.
-- Realizar tuning dos hiperparâmetros do modelo.
+- Experimentar outros classificadores..
 - Implementar validação cruzada para melhorar a generalização.
+- Melhorar o desempenho do modelo para aumentar o score no Kaggle.
