@@ -1,27 +1,27 @@
 # Titanic Survival Prediction with Random Forest
 
-Este repositório contém um modelo de aprendizado de máquina desenvolvido para prever a sobrevivência dos passageiros do Titanic, utilizando dados do famoso conjunto de dados do Kaggle. O projeto foca no uso de Random Forest como classificador e inclui etapas básicas de análise de dados e pré-processamento.
+This repository contains a machine learning model developed to predict the survival of Titanic passengers using data from the famous Kaggle dataset. The project focuses on using Random Forest as a classifier and includes basic steps for data analysis and preprocessing.
 
-## Principais características
-- Carregamento e análise inicial dos dados de treino e teste.
-- Implementação de um modelo `RandomForestClassifier` da biblioteca `sklearn`.
-- Configuração dos parâmetros do modelo para otimizar o desempenho.
-- Utilização de abordagens simples, como escolhas majoritárias, para lidar com valores ausentes ou categóricos.
+## Key Features
+- Loading and initial analysis of the training and testing datasets.
+- Implementation of a `RandomForestClassifier` model from the `sklearn` library.
+- Model parameter tuning to optimize performance.
+- Use of simple approaches, such as majority choices, to handle missing or categorical values.
 
-## Tecnologias utilizadas
-- `pandas` para manipulação de dados.
-- `numpy` para cálculos matemáticos.
-- `scikit-learn` para o desenvolvimento do modelo de aprendizado de máquina.
+## Technologies Used
+- `pandas` for data manipulation.
+- `numpy` for mathematical calculations.
+- `scikit-learn` for machine learning model development.
 
-## Como usar
-1. Clone este repositório.
-2. Certifique-se de que os arquivos `train.csv` e `test.csv` estão disponíveis na mesma pasta do notebook.
-3. Execute o notebook para treinar o modelo e gerar as previsões.
+## How to Use
+1. Clone this repository.
+2. Ensure the `train.csv` and `test.csv` files are available in the same folder as the notebook.
+3. Run the notebook to train the model and generate predictions.
 
-## Resultados
-- O modelo obteve um score de 0.76 no Kaggle.
+## Results
+- The model achieved a score of 0.76 on Kaggle.
 
-## Próximos passos
-- Experimentar outros classificadores..
-- Implementar validação cruzada para melhorar a generalização.
-- Melhorar o desempenho do modelo para aumentar o score no Kaggle.
+## Next Steps
+- Experiment with other classifiers.
+- Implement cross-validation to improve generalization.
+- Enhance the model's performance to increase the Kaggle score.
