@@ -23,5 +23,5 @@ This repository contains a machine learning model developed to predict the survi
 
 ## Next Steps
 - Experiment with other classifiers.
-- Implement cross-validation to improve generalization.
+- Implement cross-validation to improve generalization. (Done)
 - Enhance the model's performance to increase the Kaggle score.
