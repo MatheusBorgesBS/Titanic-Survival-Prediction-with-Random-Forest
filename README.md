@@ -22,6 +22,6 @@ This repository contains a machine learning model developed to predict the survi
 - The model achieved a score of 0.76 on Kaggle.
 
 ## Next Steps
-- Experiment with other classifiers.
+- Experiment with other classifiers. (Done)
 - Implement cross-validation to improve generalization. (Done)
 - Enhance the model's performance to increase the Kaggle score.
